@@ -1,6 +1,8 @@
 Câu 1: Tạo thư mục baitap trong home
+
 <img width="952" height="508" alt="Screenshot_20260629_091012" src="https://github.com/user-attachments/assets/5fe3e75e-b8c3-48e6-b861-34a9f4990995" />
 Câu 2: Xem nội dung tập tin etc/passwd
+
 - Sử dụng lệnh "kate /etc/passwd"
   
 <img width="1920" height="1056" alt="Cau2" src="https://github.com/user-attachments/assets/44e9ad84-36f3-4ac7-8d40-6bc569067336" />
@@ -14,6 +16,7 @@ Câu 4: Nội dung tập tin etc/group
 Câu 5: Tạo các nhom hocvien, admin, user
 
 - Sử dụng lệnh "sudo groupadd hocvien, admin, user"
+  
 <img width="952" height="549" alt="Cau5" src="https://github.com/user-attachments/assets/c22db9af-391e-4ea5-bf6c-4fd1f766a800" />
 Câu 6: Tạo các người dùng
 
@@ -41,6 +44,6 @@ Câu 9: Tạo quyền hạn mặc định
 <img width="929" height="570" alt="Cau9" src="https://github.com/user-attachments/assets/4a79c927-bd13-49e6-adeb-8c1863248265" />
 Câu 10: Đăng nhập user1 và truy cập dsuser
 
-- Đăng nhập user1 và truy cập dile dsuser báo không có quyền do dsuser chỉ cấp quyền đọc cho owner và group, còn user1 là other nên không có quyền
-- 
+- Đăng nhập user1 và truy cập file dsuser báo không có quyền do dsuser chỉ cấp quyền đọc cho owner và group, còn user1 là other nên không có quyền
+  
 <img width="929" height="570" alt="Cau10" src="https://github.com/user-attachments/assets/ef675029-ea62-4752-942c-d874285fc529" />
